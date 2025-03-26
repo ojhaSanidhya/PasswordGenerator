@@ -1,29 +1,24 @@
 Password Generator 🔒
-A React-based Password Generator that helps users create secure and customizable passwords with ease.
+A React-based Password Generator that creates secure and customizable passwords instantly.
 
 🚀 Features
-Generate strong and random passwords.
+Random password generation with adjustable length
 
-Customize password length.
+Options to include/exclude uppercase, lowercase, numbers, and symbols
 
-Include/exclude uppercase, lowercase, numbers, and special characters.
+One-click copy to clipboard
 
-Copy generated password to clipboard.
-
-Responsive and user-friendly UI.
+Clean and responsive UI
 
 🛠️ Technologies Used
-React 18.2.0 ⚛️
+React 18.2.0
 
 JavaScript (ES6+)
 
-Tailwind CSS 🎨
-
-HTML5 📄
+CSS3
 
 🌟 Contributing
-Feel free to contribute! Fork the repo, make changes, and submit a PR. 🚀
+Open to contributions! Feel free to fork, improve, and submit a PR.
 
 📜 License
 This project is MIT Licensed.
-
